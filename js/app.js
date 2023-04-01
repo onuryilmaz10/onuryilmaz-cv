@@ -1,5 +1,5 @@
-/* Theme Name: Zoovara - Personal Template
-   Author: Mannat-themes
+/* Theme Name: Personal CV
+   Author: Onur YILMAZ
    Version: 1.0.0
    File Description:App JS file of the template
 */
